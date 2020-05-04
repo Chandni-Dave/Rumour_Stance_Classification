@@ -2,10 +2,7 @@
 
 Rumour stance classification is the task of determining if each tweet discussing particular rumour is supporting, denying, querying or
 just commenting on the rumour, has been of substantial interest. False claims and rumours affect people’s perceptions of events and
-their behavior, sometimes in harmful ways. Previous work regarding stance classification has treated tweets as an independent unit.
-The objective is to accurately determine the support each tweet expresses and ultimately help to aggregate views to determine the
-veracity of the rumour. This task uses eight Twitter datasets, collected from different breaking news and aims at evaluating the stance
-of each tweets belonging to a rumour using non-sequential classifiers.
+their behavior, sometimes in harmful ways. Previous work regarding stance classification has treated tweets as an independent unit. This task uses eight Twitter datasets, collected from different breaking news and aims at evaluating the stance i.e which can be of 4 categories: supporting (S), denying (D), querying (Q), or commenting (C), i.e., SDQC of each tweets belonging to a rumour using non-sequential classifiers.
 
 #### Dataset -
 
