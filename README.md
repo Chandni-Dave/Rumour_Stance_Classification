@@ -16,7 +16,7 @@ Dataset link - <https://figshare.com/articles/PHEME_rumour_scheme_dataset_journa
 
 * Dataset folder contains **pheme-dataset** which is the training data, **test-data** which is the test data, **test_label.json** which contains testing labels and **train_data.json** contains training labels.
 
-* The dataset contains **badwords.txt** which is list of bad-words which is used to find feature in Data.ipynb
+* Dataset also contains **badwords.txt** which is list of bad-words which is used to find feature in Data.ipynb
 
 #### Requirements to run the code -
 * Python version - 3.6 or above
