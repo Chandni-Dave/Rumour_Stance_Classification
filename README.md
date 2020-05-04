@@ -7,8 +7,8 @@ The objective is to accurately determine the support each tweet expresses and ul
 veracity of the rumour. This task uses eight Twitter datasets, collected from different breaking news and aims at evaluating the stance
 of each tweets belonging to a rumour using non-sequential classifiers.
 
-#### Dataset
-- - - -
+#### Dataset -
+
 * The PHEME dataset consists of nine events which corresponds to different breaking news stories,
 which has tweet level annotations for stance.Dataset contains tree-structured conversations, which are intitiated by a
 source tweet for a rumour and nested replies that discuss the source tweet and the rumour itself(replies). Dataset is available publicly and can be downloaded from link below.
