@@ -1,5 +1,5 @@
 ## Rumour Stance Classification ##
-- - - -
+
 Rumour stance classification is the task of determining if each tweet discussing particular rumour is supporting, denying, querying or
 just commenting on the rumour, has been of substantial interest. False claims and rumours affect people’s perceptions of events and
 their behavior, sometimes in harmful ways. Previous work regarding stance classification has treated tweets as an independent unit.
